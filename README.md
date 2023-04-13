@@ -1,5 +1,7 @@
 # proxiesVulns bypass
 
+Weird Proxies - https://github.com/GrrrDog/weird_proxies
+
 Varnish or HaProxy
 
 1. GET http://company.com/Endpoints-To-Proxy/.git HTTP/1.1
